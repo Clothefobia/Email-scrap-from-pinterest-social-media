@@ -1,7 +1,7 @@
 # Email-scrap-from-pinterest-social-media
 how to extract emails from pinterest social media website. software will extract all emails as per your defined keyword on pinterest.
 
-Check software on below link
+Check software on below link for buy premium software  
 https://codecanyon.net/item/pinterest-email-extractor-and-scraper/28738989
  <h4>What is Pinterest Email Extractor?</h4>
             <hr class="notop"><p>
